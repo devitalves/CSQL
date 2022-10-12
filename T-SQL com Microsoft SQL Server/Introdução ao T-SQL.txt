@@ -1,0 +1,7 @@
+Introdução ao T-SQL
+
+Preparando Ambiente
+
+O que é o T-SQL
+
+Sentenças sobre o T-SQL
