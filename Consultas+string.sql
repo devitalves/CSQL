@@ -1,7 +1,7 @@
 
-/** FunÁıes de String **/
+/** Fun√ß≈ëes de String **/
 
-SELECT LTRIM('      OLA')
+SELECT LTRIM('     OLA')
 
 SELECT RTRIM('OLA      ')
 
@@ -33,7 +33,7 @@ SELECT NOME, CONCAT([ENDERECO 1], ' ', BAIRRO, ' ', CIDADE, ' ', ESTADO) AS COMP
 FROM [TABELA DE CLIENTES]
 
 
-/** FUN«’ES DE DATAS **/
+/** FUN√á≈êES DE DATAS **/
 
 SELECT SYSDATETIME()
 
