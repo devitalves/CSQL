@@ -1,4 +1,4 @@
-/*** Consultas com DISTINCT ***/
+/*** Consultas com DISTINCT. ***/
 
 SELECT EMBALAGEM, TAMANHO FROM [TABELA DE PRODUTOS]
 
