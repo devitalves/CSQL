@@ -13,3 +13,4 @@ O comando de consultas e como podemos filtrá-las;
 Como podemos mesclar filtros condicionais com AND e OR;
 A usar >, >=, <, <=, = ou <> nos filtros que envolvem valores;
 Como funciona o comando LIKE;
+Como apresentar somente linhas distintas numa seleção;
