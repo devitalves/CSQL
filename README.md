@@ -16,3 +16,4 @@ Como funciona o comando LIKE;
 Como apresentar somente linhas distintas numa seleção;
 Como ordenar a saída da seleção;
 Como agrupar linhas por um conjunto de campos e aplicando um critério de agrupamento sobre os campos numéricos (SOMA, MIN, MAX, MÉDIA, etc ..)
+Como utilizar o comando HAVING para aplicar um filtro usando os campos numéricos agrupados como condição.
