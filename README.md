@@ -18,4 +18,4 @@ Como ordenar a saída da seleção;
 Como agrupar linhas por um conjunto de campos e aplicando um critério de agrupamento sobre os campos numéricos (SOMA, MIN, MAX, MÉDIA, etc ..)
 Como utilizar o comando HAVING para aplicar um filtro usando os campos numéricos agrupados como condição.
 Como usar o CASE para classificar um determinado campo por um critério.
-
+Como conectar duas ou mais tabelas através de JOINs;
