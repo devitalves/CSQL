@@ -19,3 +19,4 @@ Como agrupar linhas por um conjunto de campos e aplicando um critério de agrupa
 Como utilizar o comando HAVING para aplicar um filtro usando os campos numéricos agrupados como condição.
 Como usar o CASE para classificar um determinado campo por um critério.
 Como conectar duas ou mais tabelas através de JOINs;
+Os tipos de JOINs existentes e quais são suportados pelo MYSQL;
