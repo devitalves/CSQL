@@ -20,3 +20,4 @@ Como utilizar o comando HAVING para aplicar um filtro usando os campos numérico
 Como usar o CASE para classificar um determinado campo por um critério.
 Como conectar duas ou mais tabelas através de JOINs;
 Os tipos de JOINs existentes e quais são suportados pelo MYSQL;
+Exemplos de Full e Cross Join;
