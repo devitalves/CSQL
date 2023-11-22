@@ -22,3 +22,5 @@ Como conectar duas ou mais tabelas através de JOINs;
 Os tipos de JOINs existentes e quais são suportados pelo MYSQL;
 Exemplos de Full e Cross Join;
 Os comandos UNION e UNION ALL, para juntar duas ou mais seleções
+Usar uma consulta como critério de filtro de outra consulta;
+
