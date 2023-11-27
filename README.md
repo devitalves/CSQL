@@ -24,5 +24,6 @@ Exemplos de Full e Cross Join;
 Os comandos UNION e UNION ALL, para juntar duas ou mais seleções;
 Usar uma consulta como critério de filtro de outra consulta;
 Criar e usar visões (Views);
+Algumas funções de texto;
 
 
