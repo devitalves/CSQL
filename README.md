@@ -26,5 +26,6 @@ Usar uma consulta como critério de filtro de outra consulta;
 Criar e usar visões (Views);
 Algumas funções de texto;
 Foi mostrado funções de datas;
+Funções matemáticas;
 
 
