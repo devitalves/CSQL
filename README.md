@@ -27,7 +27,7 @@ Criar e usar visões (Views);
 Algumas funções de texto;
 Foi mostrado funções de datas;
 Funções matemáticas;
-Abordamos funções de conversão.
+Abordamos funções de conversão;
 Criando relatório de vendas válidas.
 
 
