@@ -29,6 +29,6 @@ Foi mostrado funções de datas;
 Funções matemáticas;
 Abordamos funções de conversão;
 Criando relatório de vendas válidas;
-Relatório de vendas por sabor.
+Relatório de vendas por sabor;
 
 
