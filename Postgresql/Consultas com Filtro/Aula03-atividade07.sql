@@ -1,6 +1,6 @@
 SELECT *
   FROM aluno
- WHERE nome LIKE 'D%'
+ WHERE nome LIKE 'R%'
    AND cpf IS NOT NULL;
    
 SELECT *
