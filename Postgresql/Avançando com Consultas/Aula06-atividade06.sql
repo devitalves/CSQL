@@ -1,4 +1,4 @@
-
+-- Avançando com Consulta
 SELECT * FROM aluno;
 SELECT * FROM aluno_curso;
 SELECT * FROM curso;
