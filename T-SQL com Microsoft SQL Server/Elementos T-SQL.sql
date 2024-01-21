@@ -11,11 +11,11 @@ SET @LIMITE_MAXIMO = 50000
 SELECT @LIMITE_ATUAL = SUM([LIMITE DE CREDITO]) FROM [TABELA DE CLIENTES] WHERE BAIRRO = @BAIRRO
 IF @LIMITE_MAXIMO <= (SELECT SUM([LIMITE DE CREDITO]) FROM [TABELA DE CLIENTES] WHERE BAIRRO = @BAIRRO)
 BEGIN
-   PRINT 'Valor estourou. Não é possível abrir novos créditos'
+   PRINT 'Valor estourou. Não é possível abrir novos créditos.'
 END
 ELSE
 BEGIN
-   PRINT 'Valor não estourou. É possível abrir novos créditos'
+   PRINT 'Valor não estourou. É possível abrir novos créditos.'
 END
 
 
