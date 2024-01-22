@@ -1,5 +1,5 @@
 # CSQL
-- Criei esse Repositório para meu estudo e avanço em SQL.
+- Criei esse Repositório para meu estudo e desenvolvimento em SQL.
 
 
 Aprendendo sobre CTE (video aula no Youtube);
