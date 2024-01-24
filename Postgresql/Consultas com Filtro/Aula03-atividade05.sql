@@ -24,7 +24,7 @@ SELECT *
  
  SELECT *
   FROM aluno
- WHERE idade > 35;
+ WHERE idade > 37;
  
  SELECT *
   FROM aluno
