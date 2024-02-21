@@ -32,3 +32,7 @@ Criando relatório de vendas válidas;
 Relatório de vendas por sabor;
 
 
+PostgreSQL - Views, Sub-consultas e Funções
+
+Introdução ao banco de dados.
+
