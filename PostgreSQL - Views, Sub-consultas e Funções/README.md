@@ -1,1 +1,1 @@
-Comentando sobre tipos de relacionamento
+Comentando sobre tipos de relacionamento.
